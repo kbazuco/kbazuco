@@ -35,4 +35,4 @@
   <a href="https://instagram.com/kvrafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:kevin_bazuco@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:kevin.bazuco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Rafa-Developer" src="https://cdn.discordapp.com/attachments/700414573861273742/1284742800121794590/developer100.gif?ex=66e7bd78&is=66e66bf8&hm=d507fe54b1dfa8319dabe0a64bbc59608ca52b1bbb9561f190b05de893ee81e1&">
+  <img align="right" alt="Rafa-Developer" src="https://cdn.discordapp.com/attachments/700414573861273742/1284988110219907162/1download20240906230246.png?ex=66e8a1ef&is=66e7506f&hm=8d3608216b4ffda99294bcc8e06b921619f726f8707a52500a3038fac1ad53b3&">
